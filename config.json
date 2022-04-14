@@ -1,12 +1,12 @@
 {
     "ip": "",
     "port": "",
-    "name": "katy",
+    "name": "JoeMama",
     "auto-night-skip": "false",
-    "prefix": "",
+    "prefix": "?",
     "login-enabled": "true",
-    "register-cmd": "/login kartikopp kartikopp",
-    "login-cmd": "/login kartikopp",
-    "loginmsg": "",
+    "register-cmd": "/login Killed@Mama Killed@Mama",
+    "login-cmd": "/login Killed@Mama",
+    "loginmsg": "Whatsup Nerds",
     "auto-reconnect": "true"
 }
